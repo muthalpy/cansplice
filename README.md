@@ -1,2 +1,2 @@
-# cansplice
-cansplice web-application codes
+# cansplice®
+cansplice web-application related codes
