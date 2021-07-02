@@ -5,7 +5,6 @@ library(edgeR)
 dir_gdc <- file.path(getwd(), "Data","Queried")
 dir_mda <- file.path(getwd(), "Data", "TCGAspliceseqData", "spliceseqdata")
 dir_app <- file.path(getwd(), "App",  "datasets")
-dir_app <- file.path("/home/muth/R/breast/SPLICE",  "datasets")
 
 sites <- c("BRCA", "CESC", "COAD", "LIHC", "LUAD", "LUSC", "PAAD", "PRAD", "UCEC")
 
